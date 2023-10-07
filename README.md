@@ -1,2 +1,2 @@
-# assignment
-Different type of coding repo
+# Quiz-questions
+ Panaverse questions
